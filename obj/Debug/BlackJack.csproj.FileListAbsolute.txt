@@ -1,0 +1,10 @@
+D:\SE_Sctiprs\notSE\BlackJack\bin\Debug\BlackJack.exe.config
+D:\SE_Sctiprs\notSE\BlackJack\bin\Debug\BlackJack.exe
+D:\SE_Sctiprs\notSE\BlackJack\bin\Debug\BlackJack.pdb
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.Form1.resources
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.exe
+D:\SE_Sctiprs\notSE\BlackJack\obj\Debug\BlackJack.pdb
